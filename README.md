@@ -13,23 +13,12 @@
 
 ## Технологический стек
 
-- **Frontend**: React (React Router DOM for routing)  
-  ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-
-- **Backend**: Pixabay API integration  
-  ![Pixabay Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Pixabay_logo_2019.svg)
-
-- **HTTP Client**: Axios  
-  ![Axios Logo](https://axios-http.com/img/axios-logo.svg)
-
-- **Styling**: Custom CSS (Apple-inspired design)  
-  ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-
-- **TypeScript**: For type safety  
-  ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/TypeScript_Logo_2020.svg)
-
-- **State Management**: React Hooks  
-  ![React Hooks Logo](https://reactjs.org/logo-og.png)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) **Фронтенд**: React (React Router DOM для маршрутизации)
+- ![Pixabay](https://img.shields.io/badge/-Pixabay-6A5ACD?logo=pixabay&logoColor=white) **Бэкенд**: Интеграция с Pixabay API
+- ![Axios](https://img.shields.io/badge/-Axios-5A29E6?logo=axios&logoColor=white) **HTTP-клиент**: Axios
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) **Стилизация**: Собственный CSS (дизайн в стиле Apple)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) **TypeScript**: Для типизации
+- ![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?logo=react&logoColor=white) **Управление состоянием**: React Hooks
 
 ---
 
@@ -50,9 +39,9 @@
 
 ## Tech Stack
 
-- **Frontend**: React (React Router DOM for routing)
-- **Backend**: Pixabay API integration
-- **HTTP Client**: Axios
-- **Styling**: Custom CSS (Apple-inspired design)
-- **TypeScript**: For type safety
-- **State Management**: React Hooks
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) **Frontend**: React (React Router DOM for routing)
+- ![Pixabay](https://img.shields.io/badge/-Pixabay-6A5ACD?logo=pixabay&logoColor=white) **Backend**: Pixabay API integration
+- ![Axios](https://img.shields.io/badge/-Axios-5A29E6?logo=axios&logoColor=white) **HTTP Client**: Axios
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) **Styling**: Custom CSS (Apple-inspired design)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) **TypeScript**: For type safety
+- ![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?logo=react&logoColor=white) **State Management**: React Hooks
