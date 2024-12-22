@@ -1,0 +1,40 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+
+:root {
+  --gray-darker: #444444;
+  --gray-dark: #696969;
+  --gray: #999999;
+  --gray-light: #cccccc;
+  --gray-lighter: #ececec;
+  --gray-lightest: lighten(--gray-lighter, 4%);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.page {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  min-width: 280px;
+  max-width: 100vw;
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif, Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+@import url(./components/Header/Header.css);
+@import url(./components//SearchBar/SearchBar.css);
+@import url(./components//LoadingSpinner/LoadingSpinner.css);
+@import url(./components/Cards/Cards.css);
+@import url(./components/Card/Card.css);
+@import url(./components/ProductPage/ProductPage.css);
+@import url(./components/CreateProduct/CreateProduct.css);
+@import url(./components/NotFound/NotFound.css);
