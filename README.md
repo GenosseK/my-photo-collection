@@ -13,12 +13,23 @@
 
 ## Технологический стек
 
-- **Фронтенд**: React (React Router DOM для маршрутизации)
-- **Бэкенд**: Интеграция с Pixabay API
-- **HTTP-клиент**: Axios
-- **Стилизация**: Собственный CSS (дизайн в стиле Apple)
-- **TypeScript**: Для типизации
-- **Управление состоянием**: React Hooks
+- **Frontend**: React (React Router DOM for routing)  
+  ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
+- **Backend**: Pixabay API integration  
+  ![Pixabay Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Pixabay_logo_2019.svg)
+
+- **HTTP Client**: Axios  
+  ![Axios Logo](https://axios-http.com/img/axios-logo.svg)
+
+- **Styling**: Custom CSS (Apple-inspired design)  
+  ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+
+- **TypeScript**: For type safety  
+  ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/TypeScript_Logo_2020.svg)
+
+- **State Management**: React Hooks  
+  ![React Hooks Logo](https://reactjs.org/logo-og.png)
 
 ---
 
