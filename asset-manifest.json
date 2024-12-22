@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-photo-collection/static/css/main.be0d85b2.css",
-    "main.js": "/my-photo-collection/static/js/main.27d6273b.js",
+    "main.js": "/my-photo-collection/static/js/main.a58dfa10.js",
     "static/js/488.fe3f919a.chunk.js": "/my-photo-collection/static/js/488.fe3f919a.chunk.js",
     "static/media/Inter-Medium.woff": "/my-photo-collection/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff": "/my-photo-collection/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -11,11 +11,11 @@
     "static/media/Inter-Regular.woff2": "/my-photo-collection/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "index.html": "/my-photo-collection/index.html",
     "main.be0d85b2.css.map": "/my-photo-collection/static/css/main.be0d85b2.css.map",
-    "main.27d6273b.js.map": "/my-photo-collection/static/js/main.27d6273b.js.map",
+    "main.a58dfa10.js.map": "/my-photo-collection/static/js/main.a58dfa10.js.map",
     "488.fe3f919a.chunk.js.map": "/my-photo-collection/static/js/488.fe3f919a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be0d85b2.css",
-    "static/js/main.27d6273b.js"
+    "static/js/main.a58dfa10.js"
   ]
 }
