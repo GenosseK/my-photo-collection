@@ -1,3 +1,5 @@
+# [My Photo Collection](https://genossek.github.io/my-photo-collection/)
+
 **My Photo Collection** — это приложение для поиска и добавления изображений, полученных через Pixabay API, в свою коллекцию, а также для загрузки своих собственных изображений.
 
 ---
